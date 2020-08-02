@@ -71,7 +71,7 @@ header .close{
         justify-content: space-around;
         align-items: center;
         flex-direction: column;
-        background: white;
+        background: black;
         z-index: 99;
         opacity: 0.97;
         transition: 0.5s linear;
